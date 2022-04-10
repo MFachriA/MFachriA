@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello! I'm Fachri 👋
+
+I am a computer science student from Bina Nusantara, I enjoy learning languages and design in general. Right now I am studying Mobile Development path in Google Bangkit.
+</svg>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mfachria&theme=dark&show_icons=true)
 
 <!--
 **MFachriA/MFachriA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
